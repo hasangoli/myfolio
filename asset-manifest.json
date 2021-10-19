@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/myfolio/static/css/main.991f119d.chunk.css",
-    "main.js": "/myfolio/static/js/main.18e85beb.chunk.js",
-    "main.js.map": "/myfolio/static/js/main.18e85beb.chunk.js.map",
+    "main.js": "/myfolio/static/js/main.a2af4677.chunk.js",
+    "main.js.map": "/myfolio/static/js/main.a2af4677.chunk.js.map",
     "runtime-main.js": "/myfolio/static/js/runtime-main.a7a2322a.js",
     "runtime-main.js.map": "/myfolio/static/js/runtime-main.a7a2322a.js.map",
     "static/css/2.0a9ec390.chunk.css": "/myfolio/static/css/2.0a9ec390.chunk.css",
@@ -18,6 +18,7 @@
     "static/media/Logo_1900x1900.e9cc6a44.png": "/myfolio/static/media/Logo_1900x1900.e9cc6a44.png",
     "static/media/MerceMarket.44e93f44.png": "/myfolio/static/media/MerceMarket.44e93f44.png",
     "static/media/NetDes.c04c9715.png": "/myfolio/static/media/NetDes.c04c9715.png",
+    "static/media/TodoApp.c54d6728.png": "/myfolio/static/media/TodoApp.c54d6728.png",
     "static/media/index.scss": "/myfolio/static/media/bg.81ce80f1.svg",
     "static/media/borjklaymer.395923d4.jpg": "/myfolio/static/media/borjklaymer.395923d4.jpg",
     "static/media/jahanklaymer-min.fb727da8.png": "/myfolio/static/media/jahanklaymer-min.fb727da8.png",
@@ -30,6 +31,6 @@
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.5e580e83.chunk.js",
     "static/css/main.991f119d.chunk.css",
-    "static/js/main.18e85beb.chunk.js"
+    "static/js/main.a2af4677.chunk.js"
   ]
 }
