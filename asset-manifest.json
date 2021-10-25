@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/myfolio/static/css/main.e3de2265.chunk.css",
-    "main.js": "/myfolio/static/js/main.82b5a13c.chunk.js",
-    "main.js.map": "/myfolio/static/js/main.82b5a13c.chunk.js.map",
+    "main.js": "/myfolio/static/js/main.b2aab8fb.chunk.js",
+    "main.js.map": "/myfolio/static/js/main.b2aab8fb.chunk.js.map",
     "runtime-main.js": "/myfolio/static/js/runtime-main.a7a2322a.js",
     "runtime-main.js.map": "/myfolio/static/js/runtime-main.a7a2322a.js.map",
     "static/css/2.0a9ec390.chunk.css": "/myfolio/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.27cdc1f4.chunk.js": "/myfolio/static/js/2.27cdc1f4.chunk.js",
-    "static/js/2.27cdc1f4.chunk.js.map": "/myfolio/static/js/2.27cdc1f4.chunk.js.map",
+    "static/js/2.0f08728f.chunk.js": "/myfolio/static/js/2.0f08728f.chunk.js",
+    "static/js/2.0f08728f.chunk.js.map": "/myfolio/static/js/2.0f08728f.chunk.js.map",
     "index.html": "/myfolio/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/myfolio/static/css/2.0a9ec390.chunk.css.map",
     "static/css/main.e3de2265.chunk.css.map": "/myfolio/static/css/main.e3de2265.chunk.css.map",
-    "static/js/2.27cdc1f4.chunk.js.LICENSE.txt": "/myfolio/static/js/2.27cdc1f4.chunk.js.LICENSE.txt",
+    "static/js/2.0f08728f.chunk.js.LICENSE.txt": "/myfolio/static/js/2.0f08728f.chunk.js.LICENSE.txt",
     "static/media/Borjklaymer.e356e8e6.png": "/myfolio/static/media/Borjklaymer.e356e8e6.png",
     "static/media/IMDB.3c2350a8.png": "/myfolio/static/media/IMDB.3c2350a8.png",
     "static/media/JahanKlaymer.9f4e5cb7.png": "/myfolio/static/media/JahanKlaymer.9f4e5cb7.png",
@@ -31,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.a7a2322a.js",
     "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.27cdc1f4.chunk.js",
+    "static/js/2.0f08728f.chunk.js",
     "static/css/main.e3de2265.chunk.css",
-    "static/js/main.82b5a13c.chunk.js"
+    "static/js/main.b2aab8fb.chunk.js"
   ]
 }
