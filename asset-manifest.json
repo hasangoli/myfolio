@@ -1,27 +1,26 @@
 {
   "files": {
-    "main.css": "/myfolio/static/css/main.e3de2265.chunk.css",
-    "main.js": "/myfolio/static/js/main.b2aab8fb.chunk.js",
-    "main.js.map": "/myfolio/static/js/main.b2aab8fb.chunk.js.map",
+    "main.css": "/myfolio/static/css/main.d4da1948.chunk.css",
+    "main.js": "/myfolio/static/js/main.48eb95f6.chunk.js",
+    "main.js.map": "/myfolio/static/js/main.48eb95f6.chunk.js.map",
     "runtime-main.js": "/myfolio/static/js/runtime-main.a7a2322a.js",
     "runtime-main.js.map": "/myfolio/static/js/runtime-main.a7a2322a.js.map",
     "static/css/2.0a9ec390.chunk.css": "/myfolio/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.0f08728f.chunk.js": "/myfolio/static/js/2.0f08728f.chunk.js",
-    "static/js/2.0f08728f.chunk.js.map": "/myfolio/static/js/2.0f08728f.chunk.js.map",
+    "static/js/2.b8aca00e.chunk.js": "/myfolio/static/js/2.b8aca00e.chunk.js",
+    "static/js/2.b8aca00e.chunk.js.map": "/myfolio/static/js/2.b8aca00e.chunk.js.map",
     "index.html": "/myfolio/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/myfolio/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.e3de2265.chunk.css.map": "/myfolio/static/css/main.e3de2265.chunk.css.map",
-    "static/js/2.0f08728f.chunk.js.LICENSE.txt": "/myfolio/static/js/2.0f08728f.chunk.js.LICENSE.txt",
+    "static/css/main.d4da1948.chunk.css.map": "/myfolio/static/css/main.d4da1948.chunk.css.map",
+    "static/js/2.b8aca00e.chunk.js.LICENSE.txt": "/myfolio/static/js/2.b8aca00e.chunk.js.LICENSE.txt",
     "static/media/Borjklaymer.e356e8e6.png": "/myfolio/static/media/Borjklaymer.e356e8e6.png",
     "static/media/IMDB.3c2350a8.png": "/myfolio/static/media/IMDB.3c2350a8.png",
     "static/media/JahanKlaymer.9f4e5cb7.png": "/myfolio/static/media/JahanKlaymer.9f4e5cb7.png",
     "static/media/JicoExact.5020287c.png": "/myfolio/static/media/JicoExact.5020287c.png",
     "static/media/Logo_1900x1900.e9cc6a44.png": "/myfolio/static/media/Logo_1900x1900.e9cc6a44.png",
     "static/media/MerceMarket.44e93f44.png": "/myfolio/static/media/MerceMarket.44e93f44.png",
-    "static/media/MyFolio.91fa6668.png": "/myfolio/static/media/MyFolio.91fa6668.png",
+    "static/media/MyFolio.20e7c052.png": "/myfolio/static/media/MyFolio.20e7c052.png",
     "static/media/NetDes.c04c9715.png": "/myfolio/static/media/NetDes.c04c9715.png",
     "static/media/TodoApp.6eea2659.png": "/myfolio/static/media/TodoApp.6eea2659.png",
-    "static/media/index.scss": "/myfolio/static/media/bg.81ce80f1.svg",
     "static/media/borjklaymer.395923d4.jpg": "/myfolio/static/media/borjklaymer.395923d4.jpg",
     "static/media/jahanklaymer-min.fb727da8.png": "/myfolio/static/media/jahanklaymer-min.fb727da8.png",
     "static/media/lOGOyellow.2957a3ff.png": "/myfolio/static/media/lOGOyellow.2957a3ff.png",
@@ -31,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.a7a2322a.js",
     "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.0f08728f.chunk.js",
-    "static/css/main.e3de2265.chunk.css",
-    "static/js/main.b2aab8fb.chunk.js"
+    "static/js/2.b8aca00e.chunk.js",
+    "static/css/main.d4da1948.chunk.css",
+    "static/js/main.48eb95f6.chunk.js"
   ]
 }
