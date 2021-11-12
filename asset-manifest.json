@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/myfolio/static/css/main.e63c014c.chunk.css",
-    "main.js": "/myfolio/static/js/main.3f4cf7c7.chunk.js",
-    "main.js.map": "/myfolio/static/js/main.3f4cf7c7.chunk.js.map",
+    "main.js": "/myfolio/static/js/main.055d00df.chunk.js",
+    "main.js.map": "/myfolio/static/js/main.055d00df.chunk.js.map",
     "runtime-main.js": "/myfolio/static/js/runtime-main.a7a2322a.js",
     "runtime-main.js.map": "/myfolio/static/js/runtime-main.a7a2322a.js.map",
     "static/css/2.0a9ec390.chunk.css": "/myfolio/static/css/2.0a9ec390.chunk.css",
@@ -27,13 +27,14 @@
     "static/media/jahanklaymer-min.fb727da8.png": "/myfolio/static/media/jahanklaymer-min.fb727da8.png",
     "static/media/lOGOyellow.2957a3ff.png": "/myfolio/static/media/lOGOyellow.2957a3ff.png",
     "static/media/logo.edc45f34.png": "/myfolio/static/media/logo.edc45f34.png",
-    "static/media/photo_2021-06-05_01-02-50.fc8c7a1b.jpg": "/myfolio/static/media/photo_2021-06-05_01-02-50.fc8c7a1b.jpg"
+    "static/media/photo_2021-06-05_01-02-50.fc8c7a1b.jpg": "/myfolio/static/media/photo_2021-06-05_01-02-50.fc8c7a1b.jpg",
+    "static/media/room.85009a29.png": "/myfolio/static/media/room.85009a29.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a7a2322a.js",
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.9e5b5eed.chunk.js",
     "static/css/main.e63c014c.chunk.css",
-    "static/js/main.3f4cf7c7.chunk.js"
+    "static/js/main.055d00df.chunk.js"
   ]
 }
