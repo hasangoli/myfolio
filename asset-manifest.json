@@ -1,30 +1,25 @@
 {
   "files": {
-    "main.css": "/myfolio/static/css/main.44f97be2.css",
-    "main.js": "/myfolio/static/js/main.ed2b208b.js",
-    "static/media/Parschap.png": "/myfolio/static/media/Parschap.162247f2ff79938d8452.png",
-    "static/media/room.png": "/myfolio/static/media/room.d415b88389b7137ae385.png",
-    "static/media/IMDB.png": "/myfolio/static/media/IMDB.a6e64196fc81de2fc253.png",
-    "static/media/Clipboard.png": "/myfolio/static/media/Clipboard.bca82e8456f56404125d.png",
-    "static/media/Sneakers.png": "/myfolio/static/media/Sneakers.674e3c88026f79f677a4.png",
-    "static/media/MyFolio.png": "/myfolio/static/media/MyFolio.3827d02e6d4327fd9a0b.png",
-    "static/media/logo.png": "/myfolio/static/media/logo.aa51483090ed10e1be05.png",
-    "static/media/lOGOyellow.png": "/myfolio/static/media/lOGOyellow.f16d631a47c9ca90846e.png",
-    "static/media/Logo_1900x1900.png": "/myfolio/static/media/Logo_1900x1900.8eb7e995b9a9ff0b6544.png",
-    "static/media/Dadfaraneh.png": "/myfolio/static/media/Dadfaraneh.6b21aad7014ca4e37107.png",
-    "static/media/parschap-logo.png": "/myfolio/static/media/parschap-logo.8edb3f9ebf7525bd28e7.png",
-    "static/media/cinemafan-logo.png": "/myfolio/static/media/cinemafan-logo.ee12a214f7484ef6d46b.png",
-    "static/media/dadfaraneh-logo.png": "/myfolio/static/media/dadfaraneh-logo.12b79ace329848bac494.png",
-    "static/media/borjklaymer.jpg": "/myfolio/static/media/borjklaymer.2a7debae4c30e4f580f4.jpg",
-    "static/media/photo_2021-06-05_01-02-50.jpg": "/myfolio/static/media/photo_2021-06-05_01-02-50.fc8c7a1bc6bbd3b131b2.jpg",
-    "static/media/jahanklaymer-min.png": "/myfolio/static/media/jahanklaymer-min.4bc167cfdb57f4d19dea.png",
-    "static/media/TodoApp.png": "/myfolio/static/media/TodoApp.35afc9189cd759faa8fb.png",
-    "index.html": "/myfolio/index.html",
-    "main.44f97be2.css.map": "/myfolio/static/css/main.44f97be2.css.map",
-    "main.ed2b208b.js.map": "/myfolio/static/js/main.ed2b208b.js.map"
+    "main.css": "/static/css/main.44f97be2.css",
+    "main.js": "/static/js/main.7977d67e.js",
+    "static/media/Parschap.png": "/static/media/Parschap.162247f2ff79938d8452.png",
+    "static/media/MyFolio.png": "/static/media/MyFolio.3827d02e6d4327fd9a0b.png",
+    "static/media/logo.png": "/static/media/logo.aa51483090ed10e1be05.png",
+    "static/media/lOGOyellow.png": "/static/media/lOGOyellow.f16d631a47c9ca90846e.png",
+    "static/media/Logo_1900x1900.png": "/static/media/Logo_1900x1900.8eb7e995b9a9ff0b6544.png",
+    "static/media/Dadfaraneh.png": "/static/media/Dadfaraneh.6b21aad7014ca4e37107.png",
+    "static/media/parschap-logo.png": "/static/media/parschap-logo.8edb3f9ebf7525bd28e7.png",
+    "static/media/cinemafan-logo.png": "/static/media/cinemafan-logo.ee12a214f7484ef6d46b.png",
+    "static/media/dadfaraneh-logo.png": "/static/media/dadfaraneh-logo.12b79ace329848bac494.png",
+    "static/media/borjklaymer.jpg": "/static/media/borjklaymer.2a7debae4c30e4f580f4.jpg",
+    "static/media/photo_2021-06-05_01-02-50.jpg": "/static/media/photo_2021-06-05_01-02-50.fc8c7a1bc6bbd3b131b2.jpg",
+    "static/media/jahanklaymer-min.png": "/static/media/jahanklaymer-min.4bc167cfdb57f4d19dea.png",
+    "index.html": "/index.html",
+    "main.44f97be2.css.map": "/static/css/main.44f97be2.css.map",
+    "main.7977d67e.js.map": "/static/js/main.7977d67e.js.map"
   },
   "entrypoints": [
     "static/css/main.44f97be2.css",
-    "static/js/main.ed2b208b.js"
+    "static/js/main.7977d67e.js"
   ]
 }
